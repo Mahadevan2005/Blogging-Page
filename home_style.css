@@ -1,0 +1,32 @@
+h1{
+    font-style: italic;
+    color:darkred;
+}
+#linkedin{
+    text-align: right;
+}
+#github{
+    text-align:right ;
+}
+body{
+    background-image:"bg_image.jpg";
+}
+img{
+    border-radius: 50%;
+}
+#content{
+    border: 2px solid red;
+    width: 1180px;
+    margin: auto;
+}
+.section{
+    border: 2px solid red;
+    width: 330px;
+    display: inline-block;
+    margin: 18px;
+    padding: 10px;
+}
+button{
+    margin:auto;
+    display: block;
+}
