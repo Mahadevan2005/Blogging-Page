@@ -1,2 +1,2 @@
-# Blogging-website
-It is an static blogging website profile page developed using HTML and CSS.
+# Blogging-Page
+It is an static blogging profile page developed using HTML and CSS.
